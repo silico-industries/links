@@ -1,21 +1,16 @@
-# Project Title
+# Minimal Links Hub
 
-## Description
-Briefly describe your project.
+This is a minimal personal links hub built with HTML and Tailwind CSS, designed to be a user-friendly alternative to Linktree. It allows users to showcase a collection of links in a clean and visually appealing layout.
 
-## Installation
-Instructions for installing the project.
+## Project Information
+- **Created On**: September 28, 2025  
+- **Hosted On**: GitHub Pages  
+- **Homepage URL**: [Visit the Links Hub](https://silico-industries.github.io/links/)
 
-## Usage
-Instructions for using the project.
+## Features
+- Lightweight design  
+- Fully responsive layout  
+- Easy to customize  
 
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Specify the license under which the project is distributed.
-
-## Contact
-Your Name - your.email@example.com
-
-Project Link: https://github.com/silico-industries/links
+### Getting Started
+To get started, clone this repository and open the `index.html` in your browser.
